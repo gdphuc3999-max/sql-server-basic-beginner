@@ -6,7 +6,7 @@
 1. **Thiết lập cấu trúc lưu trữ:** Tạo Database, quản lý file vật lý `.mdf` và `.ldf` tại thư mục riêng.
 2. **Nhập liệu quy mô lớn:** Import thành công hơn 12,000 dòng dữ liệu từ file .cvs.
 3. . **Thao tác dữ liệu nâng cao:** - Sử dụng `SELECT INTO` để tách bảng.
-   - Dùng `UPDATE`, `DELETE` với các điều kiện phức tạp (`LIKE`, `IS NULL`).
+   - Dùng `UPDATE`, `DELETE` với các điều kiện 
 4. **Backup & Restore:** Xuất toàn bộ cấu trúc và dữ liệu ra file `.sql` để tái sử dụng.
  ### Minh chứng kết quả thực hiện
 1. Cài đặt sql server
